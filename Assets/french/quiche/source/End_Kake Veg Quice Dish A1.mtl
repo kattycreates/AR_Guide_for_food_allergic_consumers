@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 23.11.2016 16:40:50
+
+newmtl End1
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.297000 0.297000 0.297000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka J:\F Lenovo\5172502_Bacon Cheddar Spinach Quiche\5172502_Bacon Cheddar Spinach Quiche\max1\LR01DiffuseMap.jpg
+	map_Kd J:\F Lenovo\5172502_Bacon Cheddar Spinach Quiche\5172502_Bacon Cheddar Spinach Quiche\max1\LR01DiffuseMap.jpg
+	map_bump Map__80_Normal_Bump.tga
+
+newmtl 01___Default
+	Ns 45.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.657000 0.657000 0.657000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka J:\E Lenovo\2886927_Spaghetti\2886927_Spaghetti\max1\Piatto_B1.jpg
+	map_Kd J:\E Lenovo\2886927_Spaghetti\2886927_Spaghetti\max1\Piatto_B1.jpg
